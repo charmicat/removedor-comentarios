@@ -18,6 +18,7 @@ Esconde os comentários dos sites de notícias brasileiros:
 - Brasil 24/7
 - Pragmatismo Politico
 - Estadão
+- O Tempo
 
 Sempre em atualizaçao
 
